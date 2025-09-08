@@ -1,0 +1,46 @@
+📝 Problem Statement
+
+Title: AC Sales Dashboard
+
+Objective:
+To design an interactive dashboard that provides insights into AC sales performance across time, regions, and product categories. The dashboard should help sales managers and business leaders monitor revenue, profit, and demand trends, while identifying top-performing products and areas needing improvement.
+
+Stakeholders:
+
+Sales & Marketing Managers
+
+Business Analysts
+
+Inventory/Operations Teams
+
+Executives & Decision Makers
+
+Key Questions:
+
+What is the total revenue, profit, and units sold over time?
+
+Which regions and cities generate the most sales?
+
+Which products and categories perform best?
+
+What is the seasonal or monthly sales trend?
+
+Who are the top customers driving sales?
+
+How do discounts or promotions affect sales?
+
+KPIs:
+
+Total Revenue
+
+Total Profit
+
+Quantity Sold
+
+Average Order Value (AOV)
+
+Top 5 Products by Sales
+
+Regional Sales Performance
+
+Profit Margin %
