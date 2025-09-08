@@ -1,4 +1,5 @@
-README - AC Sales Dashboard
+
+ AC Sales Dashboard
 📌 Introduction
 
 Air conditioning (AC) products are among the most in-demand appliances in both residential and commercial markets. With seasonal demand spikes, varied regional performance, and increasing competition, analyzing sales performance is critical for businesses in the HVAC (Heating, Ventilation, and Air Conditioning) sector.
